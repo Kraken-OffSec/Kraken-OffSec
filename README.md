@@ -8,5 +8,7 @@
   - Browser Attack Tools
   - Windows Driver Exploitation
 - 📫 How to reach me:
-  -  krakensec.tech
+  -  ehosinski@krakensec.tech
+  -  https://krakensec.tech
+    
 
