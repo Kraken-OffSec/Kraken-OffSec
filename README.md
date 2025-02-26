@@ -7,6 +7,7 @@
   - Microsoft Protocols for Golang
   - Browser Attack Tools
   - Windows Driver Exploitation
+  - Golang In Memory Manual DLL Loader
 - 📫 How to reach me:
   -  ehosinski@krakensec.tech
   -  https://krakensec.tech
