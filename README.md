@@ -16,7 +16,6 @@
   - Golang In Memory Manual DLL Loader
 - 📫 How to reach me:
   -  ehosinski@krakensec.tech
-  -  https://krakensec.tech
 ---
 Check us out at:
 - [KrakenTech Offical WebSite](https://krakensec.tech)
