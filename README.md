@@ -1,5 +1,11 @@
-## Hi there 👋
+## Welcome! 👋
 
+![Alt Text](https://img.wanman.io/fUSu0/JaWUyEju83.png/raw "KrakenTech LLC")
+
+# KrakenTech LLC
+### KrakenTech is an Offensive Security Engineering company specializing in payload delivery systems and password cracking/hygiene.
+---
+## Github:
 ![Alt Text](https://github-readme-stats.vercel.app/api/top-langs/?username=Ar1ste1a&layout=compact&show_icons=true&theme=github_dark_dimmed))
 
 - 🔭 Currently working on:
@@ -11,5 +17,11 @@
 - 📫 How to reach me:
   -  ehosinski@krakensec.tech
   -  https://krakensec.tech
-    
+---
+Check us out at:
+- [KrakenTech Offical WebSite](https://krakensec.tech)
+---
+<img src="https://img.wanman.io/fUSu0/JAcEziNa36.png/raw" alt="Alt Text" title="HashCrack.ing" width="100" height="100" />
+Apply for access:
 
+- [HashCrack.ing](https://hashcrack.ing)
