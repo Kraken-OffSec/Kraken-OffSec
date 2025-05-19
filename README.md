@@ -1,6 +1,6 @@
 ## Welcome! 👋
 
-![Alt Text](https://img.wanman.io/fUSu0/JaWUyEju83.png/raw "KrakenTech LLC")
+![Alt Text](.img/krakentech.png "KrakenTech LLC")
 
 # KrakenTech LLC
 ### KrakenTech is an Offensive Security Engineering company specializing in payload delivery systems and password cracking/hygiene.
