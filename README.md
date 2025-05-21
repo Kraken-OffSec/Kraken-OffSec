@@ -22,7 +22,7 @@
 Check us out at:
 - [KrakenTech Offical WebSite](https://krakensec.tech)
 ---
-<img src="https://img.wanman.io/fUSu0/JAcEziNa36.png/raw" alt="Alt Text" title="HashCrack.ing" width="100" height="100" />
+<img src="https://cdn.krakensec.tech/hashcrack_logo_square_border.png" alt="Alt Text" title="HashCrack.ing" width="100" height="100" />
 Apply for access:
 
 - [HashCrack.ing](https://hashcrack.ing)
